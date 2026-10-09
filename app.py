@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Dashboard title
-st.title("Amazon EC2 Instance Cost Prediction")
+st.title("Amazon EC2 Instance Cost Prediction - Nawaf R")
 
 # Dashboard introduction
 st.write(
